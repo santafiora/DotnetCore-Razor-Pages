@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webprojekt_RAZOR_APP_HELLOWORLD", "Webprojekt_RAZOR_APP_HELLOWORLD.csproj", "{254CF213-D7DE-4522-8AE5-7C139BA814DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254CF213-D7DE-4522-8AE5-7C139BA814DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254CF213-D7DE-4522-8AE5-7C139BA814DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254CF213-D7DE-4522-8AE5-7C139BA814DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254CF213-D7DE-4522-8AE5-7C139BA814DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDA6A6E-B0FA-4597-9FE1-07A665911DF7}
+	EndGlobalSection
+EndGlobal
