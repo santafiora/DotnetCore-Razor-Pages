@@ -1,0 +1,41 @@
+[
+  {
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",  
+    "Released": "14 Oct 1994",
+    "Runtime": "2 h 22 min",
+    "Genre": "Crime, Drama",
+    "Director": "Frank Darabont",
+    "Writer": "Stephen King, Frank Darabont",
+    "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+    "Poster": "",    
+    "Type": "movie"
+  },
+  
+  {
+    "Title": "The Godfather",
+    "Year": "1972",  
+    "Released": "24 Mar 1972",
+    "Runtime": "2 h 55 min",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Mario Puzo, Francis Ford Coppola",
+    "Actors": "Marlon Brando, Al Pacino, James Caan, Diane Keaton",  
+    "Poster": "",
+    "Type": "movie"
+    },
+  
+  {
+  "Title": "The Godfather: Part II",
+  "Year": "1974", 
+  "Released": "20 Dec 1974",
+  "Runtime": "3 h 20 min",
+  "Genre": "Crime, Drama",
+  "Director": "Francis Ford Coppola",
+  "Writer": "Francis Ford Coppola, Mario Puzo",
+  "Actors": "Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",  
+  "Poster": "",
+  "Type": "movie"
+},
+
+]
